@@ -10,7 +10,7 @@
 #include <sys/wait.h>
 #include <string.h>
 #ifndef WWPATH
-#define WWPATH "/ilab/users/rmc326/Systems Programming/Project 1/ww"
+#define WWPATH "/ilab/users/me/Systems Programming/Project 1/ww"
 #endif
  
 int isdirect(char *name) {
