@@ -1,0 +1,6 @@
+Fragment 1 appends the src string and overwrites and terminates null byte '\0'
+at the end. The strings may not overlap and the string must have enough space.
+Fragment 2 is similar except it will use at most n bytes from src and src does
+not need to be null terminated if it contains n or more bytes.
+In terms of performance, they will perform quite similarly but fragment 2 should
+finish its result quicker than fragment 1.
