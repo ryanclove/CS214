@@ -2,6 +2,6 @@
 
 Project 1: 100%
 
-Project 2: TBD
+Project 2 Multithreading: TBD
 
-Project 3: TBD
+Project 3 Network Communication: TBD
