@@ -1,4 +1,4 @@
-Partners: Anshul Prasad (ap1770) and Ryan Coslove (rmc326)
+Partners: me and A
 
 Our testing strategy for directory and file queues was including multi-layered
 directories. This was to make sure our program was correctly going into
